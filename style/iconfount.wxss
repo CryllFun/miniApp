@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2607573 */
+  src: url('//at.alicdn.com/t/font_2607573_w3kenwhcdjm.woff2?t=1623395905110') format('woff2'),
+       url('//at.alicdn.com/t/font_2607573_w3kenwhcdjm.woff?t=1623395905110') format('woff'),
+       url('//at.alicdn.com/t/font_2607573_w3kenwhcdjm.ttf?t=1623395905110') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-MBEfenggeduosetubiao-gouwuche:before {
+  content: "\e621";
+}
+
+.icon-shoucang_huaban1:before {
+  content: "\e618";
+}

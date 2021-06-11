@@ -1,3 +1,6 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "SearchInput":"../../components/SearchInput/SearchInput.js"
+  },
+  "navigationBarTitleText": "MINI APP 首页"
 }
